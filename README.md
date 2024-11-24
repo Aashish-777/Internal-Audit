@@ -7,4 +7,8 @@ The internal audit focuses on evaluating the current state of Botium Toys' IT as
 
 <br />
 
+<h2> Utilities Used</h2>
+
+- <b>Microsoft Word</b> 
+
 
